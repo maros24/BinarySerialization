@@ -1,0 +1,14 @@
+C:\Users\Юрий\source\repos\OOP3\EntityServise\obj\Debug\EntityServise.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityServise.dll.config
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityServise.dll
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityServise.pdb
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\Entity.dll
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityDB.dll
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityDB.pdb
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\EntityDB.dll.config
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\Entity.pdb
+C:\Users\Юрий\source\repos\OOP3\EntityServise\bin\Debug\Entity.dll.config
+C:\Users\Юрий\source\repos\OOP3\EntityServise\obj\Debug\EntityServise.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\OOP3\EntityServise\obj\Debug\EntityServise.csproj.CopyComplete
+C:\Users\Юрий\source\repos\OOP3\EntityServise\obj\Debug\EntityServise.dll
+C:\Users\Юрий\source\repos\OOP3\EntityServise\obj\Debug\EntityServise.pdb

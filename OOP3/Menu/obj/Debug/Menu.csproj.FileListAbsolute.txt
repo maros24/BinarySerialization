@@ -1,0 +1,17 @@
+C:\Users\Юрий\source\repos\OOP3\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\OOP3\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Menu.dll.config
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Menu.dll
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Menu.pdb
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Entity.dll
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityServise.dll
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityDB.dll
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityServise.pdb
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityServise.dll.config
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Entity.pdb
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\Entity.dll.config
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityDB.pdb
+C:\Users\Юрий\source\repos\OOP3\Menu\bin\Debug\EntityDB.dll.config
+C:\Users\Юрий\source\repos\OOP3\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Юрий\source\repos\OOP3\Menu\obj\Debug\Menu.dll
+C:\Users\Юрий\source\repos\OOP3\Menu\obj\Debug\Menu.pdb

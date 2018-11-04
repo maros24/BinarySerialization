@@ -1,0 +1,11 @@
+C:\Users\Юрий\source\repos\OOP3\EntityDB\obj\Debug\EntityDB.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\OOP3\EntityDB\obj\Debug\EntityDB.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\EntityDB.dll.config
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\EntityDB.dll
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\EntityDB.pdb
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\Entity.dll
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\Entity.pdb
+C:\Users\Юрий\source\repos\OOP3\EntityDB\bin\Debug\Entity.dll.config
+C:\Users\Юрий\source\repos\OOP3\EntityDB\obj\Debug\EntityDB.csproj.CopyComplete
+C:\Users\Юрий\source\repos\OOP3\EntityDB\obj\Debug\EntityDB.dll
+C:\Users\Юрий\source\repos\OOP3\EntityDB\obj\Debug\EntityDB.pdb

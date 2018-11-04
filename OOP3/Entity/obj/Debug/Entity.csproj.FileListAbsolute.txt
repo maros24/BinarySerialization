@@ -1,0 +1,7 @@
+C:\Users\Юрий\source\repos\OOP3\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\OOP3\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\OOP3\Entity\bin\Debug\Entity.dll.config
+C:\Users\Юрий\source\repos\OOP3\Entity\bin\Debug\Entity.dll
+C:\Users\Юрий\source\repos\OOP3\Entity\bin\Debug\Entity.pdb
+C:\Users\Юрий\source\repos\OOP3\Entity\obj\Debug\Entity.dll
+C:\Users\Юрий\source\repos\OOP3\Entity\obj\Debug\Entity.pdb
